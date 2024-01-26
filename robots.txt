@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://lokii.in/sitemap-index.xml
+Host: https://lokii.in
