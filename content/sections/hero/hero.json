@@ -1,0 +1,22 @@
+{
+  "intro": "Hey",
+  "heroPhoto": {
+    "src": "../../images/lego-dummy.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Lokesh Raj Arora",
+  "subtitle": {
+    "prefix": "Traveller, Foodie, ",
+    "highlight": "Techie",
+    "suffix": "."
+  },
+  "description": "I'm a Github surfer and want to spend more time contributing to open source",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Instagram", "Github", "Mail"],
+    "showIcons": false
+  }
+}

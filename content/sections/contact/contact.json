@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "email": "me@lokii.in",
+  "description": "Contact me on email",
+  "image": {
+    "src": "../../images/favicon.png",
+    "alt": "Gatsby Logo"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "showIcons": true
+  }
+}
