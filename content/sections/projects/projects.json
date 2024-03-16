@@ -2,46 +2,41 @@
   "projects": [
     {
       "visible": true,
-      "category": "🕹️ EASY AND QUICK SETUP",
-      "title": "Add content and deploy!",
-      "description": "Get up and running within minutes. Just install the starter, add your content, deploy it, and there you go! This starter works seamlessly with hosts like Netlify. Photo by Clément H on Unsplash.",
-      "tags": ["Content Integration", "Ready-2-Deploy"],
+      "category": "3D Viewer",
+      "title": "Performant Custom Web Element Viewer",
+      "description": "Built a perfomant 3D Viewer that was light (180kb) and utilised techniques such as maintaing one render raster per webpage to get over the WebGL Context Limit, the external link showcases a demo of it having 200 viewer in a single page without crashing (Apple MacBook Pro Mid-2018)",
+      "tags": ["WebGL", "Three.js", "Performance"],
       "image": {
-        "src": "../../images/clement-h-95YRwf6CNw8-unsplash.jpg",
-        "alt": "Quick Setup",
-        "linkTo": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+        "src": "../../images/200-viewers.png",
+        "alt": "Quick Setup"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
-        },
-        {
           "type": "external",
-          "url": "https://www.gatsbyjs.org/docs/mdx/writing-pages/"
+          "url": "https://youtu.be/Qne_8W-pvX4"
         }
       ]
     },
     {
       "visible": true,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "category": "3D Content Delivery",
+      "title": "Progressively Enhanced Web 3D Experiences",
+      "description": "Built a mechanism with which large 3D Models / Experiences could be loaded in a web browser with progressive enhancement on the fly utilising a web worker.",
+      "tags": ["WebGL", "Three.js", "Content Delivery"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout"
+        "src": "../../images/progessively-enhancing-content.png",
+        "alt": "Progressive Enhancement"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "external",
+          "url": "https://youtu.be/URtUQyU9U_I"
         }
       ]
     }
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "Visit on Github",
     "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
   }
